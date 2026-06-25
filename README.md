@@ -2,8 +2,6 @@
 
 A collection of Python scripts for **quest challenge.** Each script lives in the `quests/` folder and is named to match its quest number.
 
----
-
 ## Group Members
 
 - Hassan Sharif Ahmed
