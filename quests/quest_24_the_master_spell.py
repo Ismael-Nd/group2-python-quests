@@ -1,0 +1,15 @@
+#!/usr/bin/env python3
+def ask_for_age():
+    age = int(input("How old are you? "))
+    return age
+
+
+def can_they_vote(age):
+    if age >= 18:
+        print("You are old enough to vote!")
+    else:
+        print("You are too young to vote.")
+
+
+user_age = ask_for_age()
+can_they_vote(user_age)
