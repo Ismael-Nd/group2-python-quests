@@ -1,5 +1,4 @@
-#Quest 25: The Number Wizard
-#The Quest: Upgrade your number guessing game. After each wrong guess, tell the user if their guess was "too high" or "too low".
+#!/usr/bin/env python3
 print("Welcome to the Number Guessing Game")
 guess = 0
 winning_num = 10
