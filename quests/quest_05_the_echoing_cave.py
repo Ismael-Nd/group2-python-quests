@@ -1,7 +1,7 @@
 # Quest 5: The Echoing Cave
 # Concept: Reassigning Variables
 
-# Step 1: Initialize the player's health
+# Step 1: I'm initializing the player's health
 player_health = 100
 
 # Step 2: A monster attacks! Loss of 25 health points
