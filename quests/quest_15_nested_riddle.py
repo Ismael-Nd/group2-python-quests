@@ -1,4 +1,4 @@
-#!/bin/bash/python3
+#!/bin/bash/env python3
 a = input("Please tell us if you're going left or right here: ")
 if a == "left":
   action = input("Do you swim or wait?")
